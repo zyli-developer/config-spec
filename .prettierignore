@@ -1,0 +1,13 @@
+package.json
+package-look.json
+tsconfig.json
+
+*.md
+*.config.js
+*.config.ts
+*.git
+
+node_modules/
+public/
+mock/
+dist/
